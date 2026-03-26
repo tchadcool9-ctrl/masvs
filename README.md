@@ -1,4 +1,4 @@
-<img width="180px" align="right" style="float: right;" src="cover.png">
+9<img width="180px" align="right" style="float: right;" src="cover.png">
 
 # OWASP Mobile Application Security Verification Standard (MASVS)
 
